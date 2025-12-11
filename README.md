@@ -2,24 +2,7 @@
 ## Describing the different parts of computational thinking ##
 
 ### DECOMPOSITION ###
-Vi bryter ner hela webbappen
-- Air Bean
-  - Menyn
-    - Lägg till i varukorg
-    - Pris
-    - Varukorg
-      - Produkt i varukorg
-        - Beställningsbekräftelse
-      - Totala Kostnaden 
-  - Vårt Kaffe
-    - Info text 
-  - Min Profil
-    - Skapa konto
-      - Min profil
-    - Logga in
-      - Min profil 
-  - Order Status
-    - Beställningsbekräftelse
+
 
 Det enklaste sättet vi kan beskriva det på är att vi valde att ta varje sida för sig och tittade vad för komponenter de innehöll, och vart det i så fall ledde vidare. 
 
