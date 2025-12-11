@@ -74,3 +74,33 @@ Maybe the AI is "hallucinating". And then you can get into a "feedback loop", an
 
 Question 2 - ChatGPT is learning from the questions being asked to it, and therefore learns old techniques if people are asking it about old techniques, and that way of solving their problems.
 For example giving back old-style code, div:s.
+
+
+06 - 
+
+The first time there are alot of details in the explanation, and the second time its less details, and the pedagogy is more directed to guidance and making yourself think and figuring it out yourself, based on it's answers.
+
+Both variants of the answers can be good and useful for different times, but guiding answers can be good as a student, as it pushes you in the right direction, making it easier for you to come up with the final solution yourself.
+For small specific things it can on the other hand be good to get a clear anwser, so that you can take that detail in your knowledge to then be able to apply it to a bigger problem.
+
+
+07 -
+
+The first anwser is giving us a detailed instructions about how you can think to solve it.
+The second answer gives you the solution =) Very short.
+
+
+08 -
+
+It's good for having a friend that youre discussing code with, as guidance, to do right things and find errors. It can give you ideas and inspiration to keep learning ourselves.
+
+Brainstorming can be perfect for getting help and inspiration for AI, having it give you ideas that you can develop further yourself.
+
+In documentation, guidance and intructions in how to do the documentations better and more efficient.
+
+We dont want the AI to answer instead of ourselves. We want to interpret things outselves.
+
+
+09 -
+
+If youre overaddicted to using AI, you can risk getting incorrect code, and not have an understanding of the code being sent back to you.
