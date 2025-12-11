@@ -4,7 +4,7 @@
 ### DECOMPOSITION ###
 
 
-Det enklaste sättet vi kan beskriva det på är att vi valde att ta varje sida för sig och tittade vad för komponenter de innehöll, och vart det i så fall ledde vidare. 
+ 
 
 ### PATTERN RECOGNITION ###
 När vi hade gjort klart vår decomposition så började vi fundera på vilka saker som var återkommande. Det var svårt först att kunna se, men såg sedan att det som alltid händer när man kommer in på hemsidan är att det alltid köps en vara, varorna är alltid samma, ett köp genomförs och man får en orderbekräftelse. Vi såg också i profilsidan att man alltid återkom till sin profil vare sig man loggade in eller skapade en profil. Orderbekräftelsen återkommer också via kundkorgen efter köp och vid menyn i början.  
@@ -38,4 +38,4 @@ Vår abstraction blev väldigt kort. Och vi är osäkra om den är komplett
 6. beställningsbekräftelsen kommer fram med info om leveranstid
    
 ### ALGORITHM DESIGN ###
-Vår algorithm blev också väldigt kort och vi hade en fundering på om vi skulle lägga till flödet av hur man loggar in/skapar konto också
+
