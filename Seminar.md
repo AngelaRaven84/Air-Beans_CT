@@ -63,7 +63,7 @@ ChatGPT has learned from different peoples questions.
 
 04 - 
 
-They are pretty similar, but Aizo is giving us sentences. ChatGPT is giving us explanations in bullet points, with a summary at the bottom.
+They are pretty similar. Aizo is giving us sentences. It's not as detailed as ChatGPT but it does have happy and friendly language. ChatGPT is giving us explanations in bullet points, with a summary at the bottom.
 
 
 05 - 
@@ -86,8 +86,8 @@ For small specific things it can on the other hand be good to get a clear anwser
 
 07 -
 
-The first anwser is giving us a detailed instructions about how you can think to solve it.
-The second answer gives you the solution =) Very short.
+The first anwser is giving us a detailed instructions about how you can think to solve it. Guiding us more than giving us a direct answer.
+The second answer gives you the solution =) Very short. Basically giving us the answer key.
 
 
 08 -
@@ -103,16 +103,16 @@ We dont want the AI to answer instead of ourselves. We want to interpret things 
 
 09 -
 
-If your'e overaddicted to using AI, you can risk getting incorrect code, and not have an understanding of the code being sent back to you. Even if you use it correctly there's still a risk to be dependant on the AI to problemsolve. Over-use simply put.
+If your'e overaddicted to using AI, you can risk getting incorrect code. You might not have an understanding of the code being sent back to you. Even if you use it correctly there's still a risk to be dependant on the AI to problemsolve. Over-use simply put.
 
 10 -
 
-Pros - it's efficient timewise to use the copilot when you have the knowledge of the code. It also is a good help when finding bugs or faults in your code to find solutions or point out what the fault is.
+Pros - It's efficient timewise to use the copilot when you have the knowledge of the code. It also is a good help when finding bugs or faults in your code to find solutions or point out what the fault is.
 Con - If you don't know or understand the code its writing for you, there is no way you can keep up. It's always better to learn the code on your own first to be able to use it.
 
 11 -
 
-Small, repetetive code is something that the copliot could help with, if it is something we write often. All code should be understood before using any automation for completing it. 
+Small, repetetive code is something that the Copilot could help with, if it is something we write often. All code should be understood before using any automation for completing it. But after learning the basics, there shouldn't be any problem using Copilot to help us both with completing small tasks or asking it how newer codes work.
 
 12 -
 
@@ -120,7 +120,7 @@ We believe that the structure of bulding is what is the most compelling to us. A
 
 13 -
 
-Using AI in the correct way, as a tool or for the repetetive tasks, we as developers can have more time and space to be more creative and use our time for the finer things. We will always be the quality-tester and understand how humans operate in a way an AI cannot.
+AI should be used in the correct way, as a tool or for the repetetive tasks. We as developers can then have more time and space to be more creative and use our time for the finer details. We will always be the quality-tester and understand how humans operate in a way an AI cannot.
 
 14 -
 
