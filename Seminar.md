@@ -103,4 +103,40 @@ We dont want the AI to answer instead of ourselves. We want to interpret things 
 
 09 -
 
-If youre overaddicted to using AI, you can risk getting incorrect code, and not have an understanding of the code being sent back to you.
+If your'e overaddicted to using AI, you can risk getting incorrect code, and not have an understanding of the code being sent back to you. Even if you use it correctly there's still a risk to be dependant on the AI to problemsolve. Over-use simply put.
+
+10 -
+
+Pros - it's efficient timewise to use the copilot when you have the knowledge of the code. It also is a good help when finding bugs or faults in your code to find solutions or point out what the fault is.
+Con - If you don't know or understand the code its writing for you, there is no way you can keep up. It's always better to learn the code on your own first to be able to use it.
+
+11 -
+
+Small, repetetive code is something that the copliot could help with, if it is something we write often. All code should be understood before using any automation for completing it. 
+
+12 -
+
+We believe that the structure of bulding is what is the most compelling to us. Also that it can give us several possible solutions is a great thing. It looks like it learns how you work your code and will adapt to it when you use it.
+
+13 -
+
+Using AI in the correct way, as a tool or for the repetetive tasks, we as developers can have more time and space to be more creative and use our time for the finer things. We will always be the quality-tester and understand how humans operate in a way an AI cannot.
+
+14 -
+
+Security is something we don't think AI should ever be used for. AI just don't understand how humans function in trying to steal private information, and it is also a question over who has the responsibility (it should be the humans). Using AI in the wrong way, and not checking it, can lead to bugs and faults within the program that noone catches.
+
+15 -
+
+Anthropic Claude 4.5 Sonnet
+We asked it to explain what arrays are in javascript and it showed us not only what is, but also how to use it. Details about what kind of datas it can have. Very detailed and well explained showing examples on how to use them.
+
+Deepseek
+The first thing we noticed, after the chinese language, was that tends open new tabs, rather than moving forward in the same tab. Otherwise, asking it the same question, it goes straight to the point directly and did give us the same information as Claude did. Somehow, it felt more intimidating.
+
+Google Gemini
+Asked same question again. The response was very positive and supportive. It started by explaining generally about arrays before going into more details on how to use them. It didn't have as much content as the others in the detailed explanations but it got the basics. Generally pleassant experiece.
+
+16 -
+
+We believe and feel that the Github copilot would be the one we would use the most in our future work-role. After getting a certain level of knowledge. It will help us to create code more quickly and be more efficient. As a student, at first glance Claude seemed to be really good explainging the topic of our question. Especially in the coding, and other things.
