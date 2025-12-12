@@ -49,7 +49,6 @@ skriv_ut("Du valde att se: " + vald_film)
 
 ## AI som studiekamrat ##
 **03 - Var går gränsen**  
-
 ChatGPT can get confused when you have several different types of files, that needs to be synchronized with eachother (context).
 You have to be very specific to have a chance of an appropriate answer (which can be hard).
 
